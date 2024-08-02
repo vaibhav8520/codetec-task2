@@ -15,7 +15,8 @@ Overview of the Project:
 
 The purpose of this project is to develop a student grade tracker application that allows educators or students to manage and monitor academic performance. This tool will facilitate the tracking of grades across various subjects, calculate averages, and provide insights into overall performance.
 
-![Uploading Screenshot (21).png…]()
+![Screenshot (21)](https://github.com/user-attachments/assets/04d83a3a-3938-4716-b957-324cc73f71b8)
+
 
 
 Features:
