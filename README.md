@@ -14,6 +14,8 @@ Duration: 10 July 2024 to 10 AUG 2024
 Overview of the Project:
 
 The purpose of this project is to develop a student grade tracker application that allows educators or students to manage and monitor academic performance. This tool will facilitate the tracking of grades across various subjects, calculate averages, and provide insights into overall performance.
+![Screenshot (17)](https://github.com/user-attachments/assets/f144202c-5ccd-4c9d-b5c7-0c5cd7ca3d35)
+
 
 Features:
 
